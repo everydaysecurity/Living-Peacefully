@@ -103,8 +103,8 @@ body {
   line-height: 1.7;
   color: #555;
   text-align: left;
+  margin-left: 20px;
   word-break: break-word;
-  padding-left: 40px;
 }
 
 h2 {
